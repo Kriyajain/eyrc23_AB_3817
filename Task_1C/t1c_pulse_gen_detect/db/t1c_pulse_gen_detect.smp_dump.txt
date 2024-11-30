@@ -1,0 +1,5 @@
+
+State Machine - |t1c_pulse_gen_detect|flag
+Name flag.01 
+flag.00 0 
+flag.01 1 

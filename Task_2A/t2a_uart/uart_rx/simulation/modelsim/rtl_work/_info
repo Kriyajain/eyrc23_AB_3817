@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim
+vtb
+!s110 1727922353
+!i10b 1
+!s100 IZnJ6T?8R;>PDh[hQ5gcY0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia6VWJl0K]W`8NMUG5KLz12
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1710944107
+8/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v
+F/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v
+!i122 1
+L0 2 98
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1727922353.000000
+!s107 /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim|/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim
+Z6 tCvgOpt 0
+vuart_rx
+!s110 1727922352
+!i10b 1
+!s100 6k^fBm_`;Q;koSEEdNA^60
+R1
+I=I<SRARz@^J?T1U5XbeLg1
+R2
+R0
+R3
+8/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v
+F/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v
+!i122 0
+L0 27 75
+R4
+r1
+!s85 0
+31
+!s108 1727922352.000000
+!s107 /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx|/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx
+R6

@@ -1,0 +1,56 @@
+# do t2a_uart_rx_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying /home/kriya/intelFPGA_lite/20.1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx {/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:55:52 on Oct 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx" /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/uart_rx.v 
+# -- Compiling module uart_rx
+# 
+# Top level modules:
+# 	uart_rx
+# End time: 07:55:52 on Oct 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim {/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:55:53 on Oct 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim" /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v 
+# -- Compiling module tb
+# ** Warning: /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v(38): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+# 
+# Top level modules:
+# 	tb
+# End time: 07:55:53 on Oct 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb 
+# Start time: 07:55:53 on Oct 03,2024
+# Loading work.tb
+# Loading work.uart_rx
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fgets'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v Line: 26
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fgets'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: /home/kriya/E-yantra_Astrotinker-bot-main/Task_2A/t2a_uart/uart_rx/simulation/modelsim/tb.v Line: 47
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 869000 ns
+# No errors encountered, congratulations!
+# 
+# stdin: <EOF>
+run
+# End time: 07:57:43 on Oct 03,2024, Elapsed time: 0:01:50
+# Errors: 0, Warnings: 2
