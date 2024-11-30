@@ -1,0 +1,443 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1732950644
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWl`W;0<:g7JcDjA36]HdL2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1700046188
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/adder.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/adder.v
+!i122 3
+L0 4 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1732950644.000000
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/adder.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes
+Z8 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 Zl9d2BC46[M^moL3^1P^o2
+R2
+I<`heoh6FKO?0RJLVald0R1
+R3
+R0
+w1700046254
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu.v
+!i122 4
+Z9 L0 4 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu.v|
+!i113 1
+R6
+R7
+R8
+valu_decoder
+Z10 !s110 1732950645
+!i10b 1
+!s100 1HJ2k3DAdbMEg[c4aoOYe0
+R2
+IiP8z89i]gB>k5>Am7OiIQ2
+R3
+R0
+w1700046277
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+!i122 5
+L0 4 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!i113 1
+R6
+R7
+R8
+vcontroller
+R10
+!i10b 1
+!s100 :G=WjJgf0KY_dJU^OcO9;0
+R2
+I=lFPOK9Bo3[09<hn>oAH92
+R3
+R0
+w1700046298
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/controller.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/controller.v
+!i122 6
+R9
+R4
+r1
+!s85 0
+31
+Z11 !s108 1732950645.000000
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/controller.v|
+!i113 1
+R6
+R7
+R8
+vdata_mem
+!s110 1732950643
+!i10b 1
+!s100 cSgAMTM]e`<Hged1CI=SB3
+R2
+I8U];H]cgSjj_fgL<1iHfK2
+R3
+R0
+w1700042537
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/data_mem.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/data_mem.v
+!i122 0
+L0 4 19
+R4
+r1
+!s85 0
+31
+!s108 1732950643.000000
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/data_mem.v|
+!i113 1
+R6
+Z12 !s92 -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu
+R8
+vdatapath
+R10
+!i10b 1
+!s100 D=b@K`4LA`BUVGz^ed6YJ2
+R2
+I1bU;OS1;_U53:0ZgoUC;T2
+R3
+R0
+w1700046314
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v
+!i122 7
+L0 4 58
+R4
+r1
+!s85 0
+31
+R11
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v|
+!i113 1
+R6
+R7
+R8
+vimm_extend
+R10
+!i10b 1
+!s100 RgQ?:B9HOGj6dKTd_RDFc1
+R2
+IQT<2DH`cEn:zk41MVLY6D2
+R3
+R0
+w1700046332
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v
+!i122 8
+L0 4 21
+R4
+r1
+!s85 0
+31
+R11
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!i113 1
+R6
+R7
+R8
+vinstr_mem
+Z13 !s110 1732950646
+!i10b 1
+!s100 Zm@]cALDSVe?ldIn==65P3
+R2
+IFTNgHQ6^QOMQ?N8ogShTm1
+R3
+R0
+w1732949323
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/instr_mem.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/instr_mem.v
+!i122 16
+L0 4 18
+R4
+r1
+!s85 0
+31
+Z14 !s108 1732950646.000000
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/instr_mem.v|
+!i113 1
+R6
+R12
+R8
+vload_extend
+R10
+!i10b 1
+!s100 OL@6b0RIl7VG9HofNj8TZ3
+R2
+IkiSo0=X^D?KiJ7^zCF7Si1
+R3
+R0
+w1700046352
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v
+!i122 9
+L0 5 18
+R4
+r1
+!s85 0
+31
+R11
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!i113 1
+R6
+R7
+R8
+vmain_decoder
+R10
+!i10b 1
+!s100 _PUKjLGjG]@>cnd9EU3V@1
+R2
+Il3zRL@eR_<5jkgJ`@L]nM3
+R3
+R0
+w1700046367
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v
+!i122 10
+L0 4 59
+R4
+r1
+!s85 0
+31
+R11
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!i113 1
+R6
+R7
+R8
+vmux2
+R13
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+Iilzg=ZD8JG=^aWQ;T9@a02
+R3
+R0
+w1700046386
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v
+!i122 11
+Z15 L0 4 9
+R4
+r1
+!s85 0
+31
+R11
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v|
+!i113 1
+R6
+R7
+R8
+vmux4
+R13
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IJN[AT9`AU8>QB6;:GBS=Y3
+R3
+R0
+w1700046412
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v
+!i122 12
+R15
+R4
+r1
+!s85 0
+31
+R14
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v|
+!i113 1
+R6
+R7
+R8
+vreg_file
+R13
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+IgX]@;m:^>[9^]ROhWEeEz0
+R3
+R0
+w1700046427
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v
+!i122 13
+L0 8 27
+R4
+r1
+!s85 0
+31
+R14
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!i113 1
+R6
+R7
+R8
+vreset_ff
+R13
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I5C@@0bc;kf^SaXGJFMR4W0
+R3
+R0
+w1700046563
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v
+!i122 15
+L0 4 12
+R4
+r1
+!s85 0
+31
+R14
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!i113 1
+R6
+R7
+R8
+vriscv_cpu
+R1
+!i10b 1
+!s100 MN0]9E4ao?9XERMD2OT[g1
+R2
+IbVB;F7Ok?5oa]Oh?]=Mlb2
+R3
+R0
+w1700042550
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/riscv_cpu.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/riscv_cpu.v
+!i122 1
+L0 4 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/riscv_cpu.v|
+!i113 1
+R6
+R12
+R8
+vstore_extend
+R13
+!i10b 1
+!s100 `7lgHbO]i8?35[O610COF3
+R2
+I2<jgeS=Q<K3ZIVA`VfHH>3
+R3
+R0
+w1700046548
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v
+!i122 14
+L0 4 16
+R4
+r1
+!s85 0
+31
+R14
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!i113 1
+R6
+R7
+R8
+vt2b_riscv_cpu
+R1
+!i10b 1
+!s100 Ok;H?=kWRhRcddT@L3;W81
+R2
+ITg41zOJ=7CHZd@n>fQ7E?1
+R3
+R0
+w1698142454
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v
+!i122 2
+L0 17 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!i113 1
+R6
+R12
+R8
+vtb
+!s110 1732950647
+!i10b 1
+!s100 YmX5GZ5knY=g?g6]ho1EK0
+R2
+I=mRzYgoX[4ZOhLiI6N3W<0
+R3
+R0
+w1698162269
+8/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v
+F/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v
+!i122 17
+L0 3 92
+R4
+r1
+!s85 0
+31
+!s108 1732950647.000000
+!s107 /home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim|/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/3817#0_ab#3817_Task2B/ab#3817_Task2B/t2b_riscv_cpu/simulation/modelsim
+R8
